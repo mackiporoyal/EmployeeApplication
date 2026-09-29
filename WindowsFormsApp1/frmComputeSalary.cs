@@ -294,6 +294,7 @@ namespace WindowsFormsApp1
 
         private void btnCompute_Click(object sender, EventArgs e)
         {
+
             string fName = txtFirstName.Text;
             string lName = txtLastName.Text;
             string dept = txtDepartment.Text;
